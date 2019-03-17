@@ -47,7 +47,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Authors of this K-Love Homework
 
-* **Nicholas Mau** - [LinkedIn](https://www.linkedin.com/in/nicholasmaumba
+* **Nicholas Mau** - [LinkedIn](https://www.linkedin.com/in/nicholasmaumba)
 
 ## License
 
