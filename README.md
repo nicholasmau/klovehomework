@@ -1,6 +1,26 @@
 # klovehomework
 K-Love Homework assigned by Paul Swagerty and Anthony Huscher.
 
+## Screenshots
+
+### Homepage
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_homepage.png" title="K-Love Homework Homepage" alt="K-Love Homework Homepage">
+
+### Departments
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_departments.png" title="K-Love Homework Department" alt="K-Love Homework Department">
+
+### Departments Edit
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_departments_edit.png" title="K-Love Homework Department Edit" alt="K-Love Homework Department Edit">
+
+### Employees
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_employees.png" title="K-Love Homework Employees" alt="K-Love Homework Employees">
+
+### Employees Edit
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_employees_edit.png" title="K-Love Homework Employees Edit" alt="K-Love Homework Employees Edit">
+
+### About
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_homepage.png" title="K-Love Homework Employees About" alt="K-Love Homework Employees About">
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. This application was not created for production purposes.
