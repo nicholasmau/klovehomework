@@ -19,7 +19,7 @@ K-Love Homework assigned by Paul Swagerty and Anthony Huscher.
 <img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_employees_edit.png" title="K-Love Homework Employees Edit" alt="K-Love Homework Employees Edit">
 
 ### About
-<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_homepage.png" title="K-Love Homework Employees About" alt="K-Love Homework Employees About">
+<img src="https://github.com/nicholasmau/klovehomework/blob/master/wwwroot/lib/images/Screenshot_about.png" title="K-Love Homework Employees About" alt="K-Love Homework About">
 
 ## Getting Started
 
